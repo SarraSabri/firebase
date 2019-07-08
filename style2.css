@@ -1,0 +1,205 @@
+
+.nav{
+    margin-left : -15px ;
+   
+}
+li{
+    display: inline-flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+}
+bodY{
+background: Linear-gradient(500deg,#420000,#600000,#790000,#931111,#BF1616);
+}
+
+img{
+    width: 100%;
+}
+video{
+    margin-left : -15px ;   
+}
+#aaa{
+    width:350px;
+    max-width:350px;
+    height:200px;
+    max-height:200px;
+    margin-top: 21px;
+}
+#img1{
+    background-size:cover;
+    height:700px ;
+}
+.carousel-inner{
+    background-size: cover;
+    height:700px;
+    max-height:700px;
+    margin-top: 0rem;
+}
+.navbar{
+    margin-bottom: 0%;
+}
+.ml{
+    display: inline-block;
+    width: 250px;
+height: 250px;
+}
+.ml:hover{
+    opacity: 0.5;
+}
+.bn{
+    margin: 20px;
+}
+#fg{
+    width: 100%;
+    height: 400px;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+}
+.btton2{
+    margin:50px;
+    width:100px;
+    height:70px;
+}
+#ko{
+    background-image: url("learning java/Capture.PNG");
+    height: 250px;
+    /* width: 250px; */
+    /* justify-content: center; */
+    background-repeat: no-repeat;
+    background-size:cover;
+    /* margin: 20px; */
+
+}
+#ka{
+    background-image: url("learning java/Capture2.PNG");
+    height: 250px;
+    /* width: 250px; */
+    /* justify-content: center;*/
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+#ke{
+    background-image: url("learning java/Capture3.PNG");
+    height: 250px;
+    /* width: 250px; */
+    /* justify-content: center;*/
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+#kz{
+    background-image: url("learning java/Capture4.PNG");
+    height: 250px;
+    /* width: 250px; */
+    /* justify-content: center;*/
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+#kq{
+    background-image: url("learning java/Capture5.PNG");
+    height: 250px;
+    /* width: 250px; */
+    /* justify-content: center;*/
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+#ks{
+    background-image: url("learning java/Capture6.PNG");
+    height: 250px;
+    /* width: 250px; */
+    /* justify-content: center;*/
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+#kd{
+    background-image: url("learning java/Capture7.PNG");
+    height: 250px;
+    /* width: 250px; */
+    /* justify-content: center;*/
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+#kf{
+    background-image: url("learning java/Capture8.PNG");
+    height: 250px;
+    /* width: 250px; */
+    /* justify-content: center;*/
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+#kg{
+    background-image: url("learning java/Capture9.PNG");
+    height: 225px;
+    /* width: 250px; */
+    /* justify-content: center;
+    background-size:cover;*/
+    background-repeat: no-repeat;
+    background-size:cover;
+
+
+}
+.bot6{
+    display: none;
+}
+/* #a1{ 
+    display: flex;
+    justify-content: center;
+}
+#a2{
+    display: flex;
+    justify-content: center;
+}
+#a3{
+    display: flex;
+    justify-content: center;
+} */
+
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100%;
+    box-sizing:cover;
+} 
+.oui{
+    color: white;
+}
+.kg{
+    height:35px;
+    width:90px;
+}
+.kn{
+    height:35px;
+    width:40px;
+}
+.test{
+    background-color:green;
+    height:300Px;
+}
+.hello{
+    display: flex;
+    justify-content:center; 
+}
+.hello1{
+    display: flex;
+    justify-content:flex-end;
+}
+.nn,.mm,.rr,.jj{
+    margin-left: 10px;
+}
+#a1,#a2{
+    margin-bottom: 20px;
+}
+p{
+    font-size: 15px;
+}
